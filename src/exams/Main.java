@@ -24,8 +24,7 @@ import java.util.Locale;
  * 
  * 
  * 
- * @author SPKARSZX
- * 
+ * @author Sebastian Karsznia 
  * 
  */
 

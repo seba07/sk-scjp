@@ -14,8 +14,7 @@ package base;
  * 
  * 
  * 
- * @author spkarszx
- * 
+ * @author Sebastian Karsznia 
  * 
  */
 

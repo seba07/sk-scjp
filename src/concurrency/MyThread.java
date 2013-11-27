@@ -4,8 +4,7 @@ package concurrency;
  * 
  * 
  * 
- * @author SPKARSZX
- * 
+ * @author Sebastian Karsznia 
  */
 public class MyThread extends Thread {
 

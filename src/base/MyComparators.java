@@ -52,7 +52,7 @@ import java.util.List;
  * 
  * 
  * 
- * @author spkarszx
+ * @author Sebastian Karsznia
  * 
  * 
  */

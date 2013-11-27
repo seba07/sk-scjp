@@ -4,8 +4,7 @@ package exceptions;
  * 
  * 
  * 
- * @author SPKARSZX
- * 
+ * @author Sebastian Karsznia 
  */
 public class MyException extends Exception {
 

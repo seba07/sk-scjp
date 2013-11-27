@@ -65,8 +65,7 @@ import java.util.EmptyStackException;
  * use a - recovery strategy
  * 
  * 
- * @author SPKARSZX
- * 
+ * @author Sebastian Karsznia 
  */
 public class Main {
 

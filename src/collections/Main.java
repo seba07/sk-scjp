@@ -25,7 +25,7 @@ package collections;
  * 
  * 
  * 
- * @author SPKARSZX
+ * @author Sebastian Karsznia
  * 
  */
 public class Main {

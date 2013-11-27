@@ -8,8 +8,7 @@ package concurrency;
  * 
  * 
  * 
- * @author SPKARSZX
- * 
+ * @author Sebastian Karsznia 
  */
 public class MySynchronization implements Runnable {
 

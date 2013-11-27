@@ -56,8 +56,7 @@ package concurrency;
  * 
  * 
  * 
- * @author SPKARSZX
- * 
+ * @author Sebastian Karsznia 
  */
 public class Main {
 

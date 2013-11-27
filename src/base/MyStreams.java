@@ -18,8 +18,7 @@ import java.io.IOException;
  * 
  * 
  * 
- * @author spkarszx
- * 
+ * @author Sebastian Karsznia
  * 
  */
 
