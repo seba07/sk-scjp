@@ -1,0 +1,16 @@
+
+
+
+SEQUENCE DIAGRAM
+
+to show interaction of objects
+Rectangles ->  nameOfObject:nameOfClass
+reading from top to down.
+Counter is for exchanging of messages.
+
+
+
+
+
+
+

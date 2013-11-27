@@ -1,0 +1,28 @@
+
+
+---------------------------------
+Ctrl + Shift + R
+	find resources (all files)
+	
+Ctrl + Shift + T
+	find java resources (types) - like enum inside class as well
+
+
+---------------------------------
+How to set author name?
+	Windows > Preferences > Java > Code Style > Code Templates > Comments -> Tyles (edit)
+
+
+How to count lines in selected resources?
+	Search -> File -> check radio button Regular expression and put \n content. Select resources.
+
+
+
+
+
+
+
+
+
+
+
