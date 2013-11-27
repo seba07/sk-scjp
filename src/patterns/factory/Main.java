@@ -1,6 +1,5 @@
 package patterns.factory;
 
-
 /**
  * 
  * Factory
@@ -8,12 +7,12 @@ package patterns.factory;
  * 
  * 
  * @author Sebastian Karsznia
- *
+ * 
  */
 public class Main {
 
 	public static void main(String[] args) {
-		
+
 	}
 
 }

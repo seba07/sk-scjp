@@ -3,9 +3,9 @@ package casting;
 public class Animal {
 
 	private String name;
-	
+
 	void eat() {
-		
+
 	}
 
 	public String getName() {
@@ -15,5 +15,5 @@ public class Animal {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+
 }

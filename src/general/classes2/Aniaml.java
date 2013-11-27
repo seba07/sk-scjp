@@ -1,6 +1,5 @@
 package general.classes2;
 
-
 /**
  * 
  * If at least one method is abstract, class has to be abstract!
@@ -9,7 +8,7 @@ package general.classes2;
  * 
  * 
  * @author Sebastian Karsznia
- *
+ * 
  */
 public abstract class Aniaml {
 

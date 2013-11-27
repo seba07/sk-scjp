@@ -7,6 +7,4 @@ public class Lion implements AnimalListener {
 		System.out.println("Update Lion..");
 	}
 
-	
-	
 }

@@ -1,12 +1,12 @@
 package patterns.bridge;
 
-
 /**
- * Client can use only Animal (abstraction) to invoke eat of created object like dog,bird etc.
+ * Client can use only Animal (abstraction) to invoke eat of created object like
+ * dog,bird etc.
  * 
  * 
  * @author Sebastian Karsznia
- *
+ * 
  */
 public abstract class Animal {
 
@@ -16,7 +16,5 @@ public abstract class Animal {
 		super();
 		this.eating = eating;
 	}
-	
-	
-	
+
 }
