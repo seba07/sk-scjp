@@ -978,24 +978,58 @@ public class Main
 
 	}
 
-	/**
-	 * 
-	 * Result:
-	 */
-
-	public void test25()
-
-	{
-
-	}
-
-	public static void main(String args[])
-
-	{
-
-		new Main().test25();
-
-	}
+	    /**
+	     * Result:
+	     * Error: "Exception in thread "main"  1 2java.lang.ArrayIndexOutOfBoundsException: 3"
+	     */
+	    public void test25 ()
+	    {
+	        String argh[] = new String[] { "0", "1", "2" };
+	
+	        int x;
+	        x = argh.length;
+	        for ( int y = 1; y <= x; y++ )
+	        {
+	            System.out.print( " " + argh[ y ] );
+	        }
+	    }
+	
+	    /**
+	     * Result:
+	     * false
+	     * true
+	     * false
+	     * true
+	     * true
+	     */
+	    public void test26 ()
+	    {
+	        float f = 42.0f;
+	        float[] f1 = new float[ 2 ];
+	        float[] f2 = new float[ 2 ];
+	        float[] f3 = f1;
+	        long x = 42;
+	        f1[ 0 ] = 42.0f;
+	
+	        if ( f1 == f2 )
+	            System.out.println( "true 1" );
+	        if ( f1 == f3 )
+	            System.out.println( "true 2" );
+	//        if ( f2 == f1[ 1 ] )
+	//            System.out.println( "true 3" );
+	        if ( x == f1[ 0 ] )                 // 42.0f == 42  ?  YES
+	            System.out.println( "true 4" );
+	        if ( f == f1[ 0 ] )
+	            System.out.println( "true 5" );
+	    }
+	
+	    public static void main ( String args[] )
+	    {
+	        new Main().test26();
+	    }
+	
+	
+	
 
 }
 
